@@ -13,6 +13,7 @@
 
 ### Cons / Missing features:
 
+- Not put any time into working with different resolutions; so alignment and sizes will be weird
 - No instructions, but hopefully intuitive enough to not require them
 - Not mobile responsive, but could be made to be (on the campaign / multiplayer screens 1 or 2 cards shown rather than 3)
 - No gamepad integration, but again could be
